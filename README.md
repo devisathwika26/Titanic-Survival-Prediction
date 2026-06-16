@@ -39,6 +39,7 @@ It contains passenger details such as:
 •Fare
 •Cabin
 •Embarked
+•Survived(Target Variable)
 
 Methodology:
 
