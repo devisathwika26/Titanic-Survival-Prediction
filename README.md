@@ -28,18 +28,20 @@ Titanic Dataset (from Kaggle / Seaborn / CSV file)
 
 It contains passenger details such as:
 
-PassengerId
-Pclass
-Name
-Sex
-Age
-SibSp
-Parch
-Ticket
-Fare
-Cabin
-Embarked
+•PassengerId
+•Pclass
+•Name
+•Sex
+•Age
+•SibSp
+•Parch
+•Ticket
+•Fare
+•Cabin
+•Embarked
+
 Methodology:
+
 Load the Titanic dataset.
 Perform data preprocessing and handle missing values.
 Encode categorical variables into numerical format.
@@ -47,6 +49,7 @@ Split the dataset into training and testing sets.
 Train a Random Forest Classifier model.
 Predict survival of passengers.
 Evaluate model performance using accuracy and classification report.
+
 Output:
 
 • Dataset Preview:
